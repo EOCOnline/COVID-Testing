@@ -10,5 +10,5 @@ model.
 Within this larger context, this particular site, at www.github.com/eoconline/Covid-Testing,
 provides a standards based, easily replicated web page that can be integrated into your 
 existing website, and easily branded to assure your visitors.
-It i sdistrubued with the very lienient MIT license, so just acknowledge where it came from 
-and you can make changes as you see fit.
+It is distrubued with the very lienient MIT license: just retain the Copyright to 
+acknowledge where it came from and you can make changes as you see fit.
