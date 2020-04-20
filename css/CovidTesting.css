@@ -1,16 +1,44 @@
 body {
-    padding-top: 56px;
-    background-color: rgb(241, 253, 253);
-  }
-  
-  .bg-image-full {
-    background: no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-  }
- 
-  .btn {
-    width:15em;
-  }
+  font-family: "Raleway", sans-serif;
+  padding-top: 56px;
+  background-color: rgb(241, 253, 253);
+}
+
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.btn {
+  width:15em;
+}
+
+.accordion1stOpen .Q .active {
+  background-color: rgba(204, 255, 255, 0.6);
+}
+
+.accordionCollapsed .Q .active {
+  background-color: rgba(204, 255, 255, 0.6);
+}
+
+.Q {
+  color: #cd2027;
+  background-color: yellow;
+  padding: 0;
+  margin: 0;
+}
+
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active,
+a.ui-button:active,
+.ui-button:active,
+.ui-button.ui-state-active:hover {
+  border: 1px solid #003eff;
+  background: green;
+  font-weight: normal;
+  color: #ffffff;
+}
