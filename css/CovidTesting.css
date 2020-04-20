@@ -24,21 +24,25 @@ body {
   background-color: rgba(204, 255, 255, 0.6);
 }
 
-.Q {
+.Qx {
   color: #cd2027;
   background-color: yellow;
   padding: 0;
   margin: 0;
 }
 
+/* Question styling */
 .ui-state-active,
 .ui-widget-content .ui-state-active,
 .ui-widget-header .ui-state-active,
 a.ui-button:active,
 .ui-button:active,
 .ui-button.ui-state-active:hover {
-  border: 1px solid #003eff;
-  background: green;
-  font-weight: normal;
-  color: #ffffff;
+  background:rgba(56, 114, 114, .6);
+}
+
+/* Answer styling? */
+.ui-corner-bottom {
+  background:rgba(56, 114, 114, 0);
+  border:0;
 }
