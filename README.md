@@ -44,6 +44,25 @@ A sample webpage is available for your use in three formats:
 * Simple styling, using Bootstrap4, jQuery, jQueryUI, and Google Fonts open source libraries
 * Fancier styling, with images and Fontawesome that can serve as a standalong website, perhaps as a subdomain to your own site.
 
+## Physician's Order Form
+You can use Google Forms to easily create a Physician's Order Form. You can just create a 
+link to the from from your RT3 Informatino Page, or you can embed it into your web page.
+
+**Creating your Form**
+You shoudl be able to enter this is a web browser to bring up our sample form:
+[https://forms.gle/eDDjLx6hwM7Ur8WW6](https://forms.gle/eDDjLx6hwM7Ur8WW6)
+Then you shoudl be able to make a copy of this form - from your own (personal) Google account 
+for free and alter it as desired, including adding a heading or logo.
+
+**Linking**
+
+**Embedding**
+To embed the form Google will provide something like the following to insert into your web page. 
+The form will appear inside your web page.
+'<iframe src=
+"https://docs.google.com/forms/d/e/1FAIpQLSdevR_rdcH03g4KiINiHT7_vdPPGUEDaUPrUdZHUlykICFTUQ/viewform?embedded=true" 
+width="640" height="855" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>'
+
 ## Roadmap
 The goal is to create three independent versions:
 1. CovidTesting.htm & css/CovidTesting.css provide a single web page with some rudimentary styles including pictures so 
