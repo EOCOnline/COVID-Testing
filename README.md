@@ -28,7 +28,7 @@ provides a standards based, easily replicated web page that can be integrated in
 existing website, and easily branded to assure your visitors.
 
 ## Roadmap
-The goal is to create three independent versions:
+![Sample Web Page](Rural-COVID-Testing-Webpage.png)The goal is to create three independent versions:
 1. CovidTesting.htm & css/CovidTesting.css provide a single web page with some rudimentary styles including pictures so 
 it could stand alone as a website, or sub-domain.
 2. CovidTestingPlain.htm & css/CovidTestingPlain.css provides a single web page with minimal styling 
@@ -36,7 +36,7 @@ and one image, so that it can be included into an existing website as a new page
 3. CovidTestingBare.htm & css/CovidTestingBare.css provides a single web page with no styling 
 and no graphics, so that it can be included into an existing website as a new page.
 
-Other goals:
+**Other goals:**
 - [x] Create a basic page using only jQuery & Bootstrap
 - [ ] Create the other two pages
 - [ ] Distribute a basic Google Form for providers to request a patient get tested
