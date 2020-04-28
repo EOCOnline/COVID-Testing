@@ -27,8 +27,25 @@ Within this larger context above, this particular GitHub repository, at www.gith
 provides a standards based, easily replicated web page that can be integrated into your 
 existing website, and easily branded to assure your visitors.
 
+## Rough Initial Appearance
+The following is an early version of the webpage. It can be easily modified by anyone with some basic HTML skills.
+![Sample Web Page](Rural-COVID-Testing-Webpage.png)
+
+## Technologies
+The web pages use only the following technology, so can be implemented on nearly any HTML based platform:
+* HTML5 & CSS3
+* Bootstrap 4 (includes jQuery)
+* jQueryUI
+* FontAwesome
+* Google Fonts can also be used
+
+A sample webpage is available for your use in three formats:
+* Bare HTML, with no external dependencies
+* Simple styling, using Bootstrap4, jQuery, jQueryUI, and Google Fonts open source libraries
+* Fancier styling, with images and Fontawesome that can serve as a standalong website, perhaps as a subdomain to your own site.
+
 ## Roadmap
-![Sample Web Page](Rural-COVID-Testing-Webpage.png)The goal is to create three independent versions:
+The goal is to create three independent versions:
 1. CovidTesting.htm & css/CovidTesting.css provide a single web page with some rudimentary styles including pictures so 
 it could stand alone as a website, or sub-domain.
 2. CovidTestingPlain.htm & css/CovidTestingPlain.css provides a single web page with minimal styling 
